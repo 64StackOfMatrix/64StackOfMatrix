@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @64StackOfMatrix
-- 👀 I’m interested in scripting, MC Modding, game development, and discord!(bots webhooks ECT.)
-- 🌱 I’m currently learning Java.
+- 👋 Hi, I’m @TheBlockSmith
+- 👀 I’m interested in mainky Minecraft Modding, game development, and discord!(bots webhooks ECT.)
+- 🌱 I’m currently learning Java and Python.
 
 <!---
 64StackOfMatrix/64StackOfMatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
