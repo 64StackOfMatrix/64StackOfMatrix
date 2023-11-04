@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheBlockSmith
-- 👀 I’m interested in mainky Minecraft Modding, game development, and discord!(bots webhooks ECT.)
+- 👀 I’m interested in mainly Minecraft Modding, game development, and discord!(bots webhooks ECT.)
 - 🌱 I’m currently learning Java and Python.
 
 <!---
